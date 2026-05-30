@@ -1,0 +1,16 @@
+{
+  "projectName": "Chainee网站",
+  "brandName": "链习社 Chainee",
+  "type": "official-website",
+  "status": "prototype",
+  "description": "面向普通人的出海金融与 Web3 路径导航网站。",
+  "entry": "index.html",
+  "previewUrl": "http://127.0.0.1:5173/",
+  "archive": "CHAINEE_PROJECT_ARCHIVE.md",
+  "docs": [
+    "PROJECT_BRIEF.md",
+    "docs/design-direction.md",
+    "docs/reference-sites.md",
+    "docs/site-plan.md"
+  ]
+}
